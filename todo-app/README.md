@@ -25,7 +25,7 @@ https://developer.mozilla.org/pt-BR/docs/Web/API/Window/localStorage
 ## Layout 🎨
 
 > **FIGMA**
-> https://www.figma.com/file/k218AgB7rCMPOsyhvqpiHM/to-do-app?node-id=0%3A1
+> https://www.figma.com/file/k218AgB7rCMPOsyhvqpiHM/?node-id=0%3A1
 
 ## Dúvidas ou Sugestões 🗣️
 
