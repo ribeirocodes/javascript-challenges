@@ -1,6 +1,10 @@
+<img src="./logo.png" />
+
 # JavaScript Challenges 💻
 
-Esse repositório reune diversos projetos e desafios para você que está estudando JavaScript 🎉
+[![license](https://img.shields.io/github/license/vncsrbro/javascript-challenges.svg)](./license.md)
+
+> Esse repositório reune diversos projetos e desafios para você que está estudando JavaScript
 
 ## Por que fazer? 🤔
 
