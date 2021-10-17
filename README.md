@@ -17,3 +17,19 @@ Uma habilidade que não pode faltar em um desenvolvedor é o compartilhamento. A
 Você pode fazer isso no meu servidor do Discord, por lá podemos interagir e construir uma comunidade.
 
 > https://discord.gg/hUd8qAHZH5
+
+## Complexidades 📈
+
+### Baixa
+
+- [Counter](counter/README.md)
+- [Palindrome Checker](palindrome-checker/README.md)
+
+### Média
+
+- [Shopping Cart](shopping-cart/README.md)
+- [Tip Calculator](tip-calculator/README.md)
+
+### Alta
+
+- [To Do App](todo-app/README.md)
