@@ -10,7 +10,7 @@ O intuito desse projeto é criar um app gerenciador de tarefas. Cada tarefa poss
 - Você não deve permitir a criação de uma tarefa com o título vazio
 - Ao clicar no botão de completar tarefa ela deve mudar de estilo, ficando com a opacidade em 40%.
 - Ao clicar nos filtros você deve exibir apenas as tarefas respectivas ao filtro selecionado
-- Ao finalizar a aplicação tente persistir as tarefas no localStorage.
+- Ao finalizar a aplicação salve as tarefas no localStorage para não perder as informações quando fechar ou recarregar a página.
 
 ## Links Úteis 🔗
 
