@@ -2,7 +2,7 @@
 
 O intuito desse projeto é criar um app gerenciador de tarefas. Cada tarefa possui um botão para finalizar, um botão para deletar, a data e o título da tarefa.
 
-> ⚠️ **COMPLEXIDADE: MÉDIA/AVANÇADA**. Caso você ainda não tenha tanta familiaridade com JavaScript recomendo iniciar pelos desafios de complexidade baixa.
+> ⚠️ **COMPLEXIDADE: ALTA**. Caso você ainda não tenha tanta familiaridade com JavaScript recomendo iniciar pelos desafios de complexidade baixa.
 
 ## Requisitos 📌
 
