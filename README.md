@@ -20,6 +20,19 @@ Você pode fazer isso no meu servidor do Discord:
 
 > https://discord.gg/hUd8qAHZH5
 
+## Revisões 🔎
+
+Finalizou um desafio e quer receber um feedback sobre a solução criada por você? Poste no discord!
+
+Lá no servidor temos o canal **revisões**, publique uma mensagem informando o link para o repositório do projeto que eu ou outros membros da comunidade podemos te passar algumas dicas sobre o código que você desenvolveu.
+
+Não tenha medo! Pedir revisão ou um feedback sobre um código seu é um passo muito importante para evoluir seu conhecimento. E lembre-se sempre também de ser empático quando for a sua vez de revisar o projeto de alguém. 😊
+
+### Links úteis sobre code review
+
+- [Guia para dar e receber um bom code review - Campus Code](https://www.campuscode.com.br/conteudos/guia-para-dar-e-receber-um-bom-code-review)
+- [CODE REVIEW (Como Essa Prática Funciona?) - Código Fonte TV](https://www.youtube.com/watch?v=_7W9pqWPyfc)
+
 ## Complexidades 📈
 
 ### Baixa
@@ -31,6 +44,7 @@ Você pode fazer isso no meu servidor do Discord:
 
 - [Shopping Cart](shopping-cart/README.md)
 - [Tip Calculator](tip-calculator/README.md)
+- [Gift Chooser](gift-chooser/README.md)
 
 ### Alta
 
@@ -40,8 +54,8 @@ Você pode fazer isso no meu servidor do Discord:
 
 - [ ] Finances App
 - [ ] Crazy Quotes Generator
-- [ ] Gift Chooser
 - [ ] Random Quotes
+- [ ] WhatsApp Messages Sender
 
 ## License ⚖️
 
