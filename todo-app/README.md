@@ -14,13 +14,15 @@ O intuito desse projeto é criar um app gerenciador de tarefas. Cada tarefa poss
 
 ## Links Úteis 🔗
 
-https://developer.mozilla.org/pt-BR/docs/Web/API/EventTarget/addEventListener
+- https://developer.mozilla.org/pt-BR/docs/Web/API/EventTarget/addEventListener
 
-https://developer.mozilla.org/pt-BR/docs/Web/API/Document/createElement
+- https://developer.mozilla.org/pt-BR/docs/Web/API/Document/createElement
 
-https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/some
+- https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/some
 
-https://developer.mozilla.org/pt-BR/docs/Web/API/Window/localStorage
+- https://developer.mozilla.org/pt-BR/docs/Web/API/Window/localStorage
+
+- https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String/toUpperCase
 
 ## Layout 🎨
 
