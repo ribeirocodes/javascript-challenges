@@ -2,7 +2,7 @@
 
 <h1 align="center">JavaScript Challenges 💻</h1>
 
-[![license](https://img.shields.io/github/license/vncsrbro/javascript-challenges.svg)](./license.md)
+[![license](https://img.shields.io/github/license/vncsrbro/javascript-challenges.svg)](./LICENSE)
 
 > Esse repositório reune diversos projetos e desafios para você que está estudando JavaScript
 
@@ -12,9 +12,11 @@ Aprender algo novo é sempre muito desafiador e exige muito treino e dedicação
 
 ## Compartilhe 🤓
 
-Uma habilidade que não pode faltar em um desenvolvedor é o compartilhamento. Através de papos com outros devs estamos sempre aprendendo e adquirindo novos conhecimentos. Pode ser uma dúvida, uma dica ou um exemplo de código, sempre compartilhe!
+Seja uma dúvida, problema ou uma sugestão a regra é: Compartilhe sempre!
 
-Você pode fazer isso no meu servidor do Discord, por lá podemos interagir e construir uma comunidade.
+Através de papos e trocas com outros desenvolvedores estamos sempre aprendendo e adquirindo novos conhecimentos, participar de comunidades é uma forma muito interessante de impulsionar seus estudos.
+
+Você pode fazer isso no meu servidor do Discord:
 
 > https://discord.gg/hUd8qAHZH5
 
@@ -40,3 +42,7 @@ Você pode fazer isso no meu servidor do Discord, por lá podemos interagir e co
 - [ ] Crazy Quotes Generator
 - [ ] Gift Chooser
 - [ ] Random Quotes
+
+## License ⚖️
+
+[MIT License](./LICENSE) © Vinicius Ribeiro
