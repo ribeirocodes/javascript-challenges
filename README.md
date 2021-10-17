@@ -1,6 +1,6 @@
 <p align="center"><img src="./logo.png" /></p>
 
-# JavaScript Challenges 💻
+<h1 align="center">JavaScript Challenges 💻</h1>
 
 [![license](https://img.shields.io/github/license/vncsrbro/javascript-challenges.svg)](./license.md)
 
@@ -14,6 +14,6 @@ Aprender algo novo é sempre muito desafiador e exige muito treino e dedicação
 
 Uma habilidade que não pode faltar em um desenvolvedor é o compartilhamento. Através de papos com outros devs estamos sempre aprendendo e adquirindo novos conhecimentos. Pode ser uma dúvida, uma dica ou um exemplo de código, sempre compartilhe!
 
-Você pode fazer isso no meu servidor do Discord, por lá podemos interagir e construir uma comunidade. Link abaixo:
+Você pode fazer isso no meu servidor do Discord, por lá podemos interagir e construir uma comunidade.
 
-https://discord.gg/hUd8qAHZH5
+> https://discord.gg/hUd8qAHZH5
