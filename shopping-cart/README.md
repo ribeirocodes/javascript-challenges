@@ -2,7 +2,7 @@
 
 Nesse desafio você deve usar suas habilidades para criar um carrinho de compras.
 
-> ⚠️ **COMPLEXIDADE: BAIXA**. Mesmo assim é normal ter dúvidas ou não ter todo o conhecimento necessário para desenvolver o projeto. Pesquise e peça ajuda sempre! ;)
+> ⚠️ **COMPLEXIDADE: MÉDIA**. Mesmo assim é normal ter dúvidas ou não ter todo o conhecimento necessário para desenvolver o projeto. Pesquise e peça ajuda sempre! ;)
 
 ## Requisitos 📌
 
