@@ -39,6 +39,7 @@ Não tenha medo! Pedir revisão ou um feedback sobre um código seu é um passo 
 
 - [Counter](counter/README.md)
 - [Palindrome Checker](palindrome-checker/README.md)
+- [Random Jokes](random-jokes/README.md)
 
 ### Média
 
@@ -54,7 +55,6 @@ Não tenha medo! Pedir revisão ou um feedback sobre um código seu é um passo 
 
 - [ ] Finances App
 - [ ] Crazy Quotes Generator
-- [ ] Random Quotes
 - [ ] WhatsApp Messages Sender
 
 ## License ⚖️
