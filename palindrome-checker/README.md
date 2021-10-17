@@ -7,9 +7,10 @@ Conhece alguma palavra que lida ao contrário permanece igual? Essas são as pal
 ## Requisitos 📌
 
 - Ao clicar no botão **VERIFICAR** o seu comparador deve capturar o valor do **INPUT** e verificar se a palavra é palíndroma ou não.
-- Se a palavra **for** palíndroma você deve exibir o resultado do layout **Caso verdadeiro**
-- Se a palavra **não for** palíndroma você deve exibir o resultado do layout **Caso falso**
-- Ambos resultados são compostos por frase + imagem
+- Se a palavra **for** palíndroma você deve exibir o resultado do layout **Caso verdadeiro**.
+- Se a palavra **não for** palíndroma você deve exibir o resultado do layout **Caso falso**.
+- Caso o **INPUT** esteja vazio ao clicar em **VERIFICAR** exiba para o usuário um alerta informando esse problema.
+- Ambos resultados são compostos por frase + imagem.
 
 ### Comportamento
 
