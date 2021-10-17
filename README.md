@@ -33,3 +33,10 @@ Você pode fazer isso no meu servidor do Discord, por lá podemos interagir e co
 ### Alta
 
 - [To Do App](todo-app/README.md)
+
+## WIP 🚧
+
+- [ ] Finances App
+- [ ] Crazy Quotes Generator
+- [ ] Gift Chooser
+- [ ] Random Quotes
