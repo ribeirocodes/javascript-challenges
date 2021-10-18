@@ -9,7 +9,8 @@ Nesse desafio sua tarefa é desenvolver um contador básico
 - Seu contador deve sempre iniciar com a contagem em `zero`.
 - Quando o usuário clicar no botão `+1` você deve pegar o valor atual do contador e acrescentar um.
 - Quando o usuário clicar no botão `-1` você deve pegar o valor atual do contador e descontar um.
-- Quando o usuário clicar no botão `Zerar` você deve definir o contador para `zero` novamente.
+- Quando o usuário clicar no botão `Zerar` você deve definir o contador para `0` novamente.
+- Você não deve permitir que o contador fique com números negativos.
 
 ### Plus
 
