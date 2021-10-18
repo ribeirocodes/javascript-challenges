@@ -34,6 +34,7 @@ output: false
 - https://developer.mozilla.org/pt-BR/docs/Web/API/EventTarget/addEventListener
 - https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/if...else
 - https://developer.mozilla.org/pt-BR/docs/Web/API/Element/innerHTML
+- https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String/toUpperCase
 
 ## Layout 🎨
 
