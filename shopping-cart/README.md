@@ -21,6 +21,7 @@ Nesse desafio você deve usar suas habilidades para criar um carrinho de compras
 - https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Number/toLocaleString
 - https://developer.mozilla.org/pt-BR/docs/Web/API/Node/appendChild
 - https://developer.mozilla.org/pt-BR/docs/Web/API/Element/innerHTML
+- https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce
 
 ## Layout 🎨
 
