@@ -55,7 +55,6 @@ Não tenha medo! Pedir revisão ou um feedback sobre um código seu é um passo 
 
 - [ ] Finances App
 - [ ] Crazy Quotes Generator
-- [ ] WhatsApp Messages Sender
 
 ## License ⚖️
 
