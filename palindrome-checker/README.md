@@ -23,6 +23,10 @@ input: esse
 reversed: esse
 output: true
 
+input: Ana
+reversed: anA
+output: false
+
 input: trem
 reversed: mert
 output: false
