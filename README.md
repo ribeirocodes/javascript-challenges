@@ -43,8 +43,9 @@ Não tenha medo! Pedir revisão ou um feedback sobre um código seu é um passo 
 
 ### Média
 
-- [Shopping Cart](shopping-cart/README.md)
 - [Tip Calculator](tip-calculator/README.md)
+- [WhatsApp Message Sender](whatsapp-message-sender/README.md)
+- [Shopping Cart](shopping-cart/README.md)
 - [Gift Chooser](gift-chooser/README.md)
 
 ### Alta
