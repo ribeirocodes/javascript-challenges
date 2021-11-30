@@ -51,6 +51,7 @@ Não tenha medo! Pedir revisão ou um feedback sobre um código seu é um passo 
 ### Alta
 
 - [To Do App](todo-app/README.md)
+- [Marvel Heroes](marvel-heroes/README.md)
 
 ## WIP 🚧
 
