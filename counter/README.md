@@ -28,6 +28,5 @@ Nesse desafio sua tarefa é desenvolver um contador básico
 > **FIGMA**
 > https://www.figma.com/file/k218AgB7rCMPOsyhvqpiHM/?node-id=17%3A101
 
-## Dúvidas ou Sugestões 🗣️
 
-https://discord.gg/hUd8qAHZH5
+

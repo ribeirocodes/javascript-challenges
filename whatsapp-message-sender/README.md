@@ -40,6 +40,5 @@ Tente utilizar uma biblioteca para adicionar uma máscara no campo de telefone.
 > **FIGMA**
 > https://www.figma.com/file/k218AgB7rCMPOsyhvqpiHM/?node-id=94%3A2
 
-## Dúvidas ou Sugestões 🗣️
 
-https://discord.gg/hUd8qAHZH5
+

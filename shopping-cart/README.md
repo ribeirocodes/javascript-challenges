@@ -28,6 +28,5 @@ Nesse desafio você deve usar suas habilidades para criar um carrinho de compras
 > **FIGMA**
 > https://www.figma.com/file/k218AgB7rCMPOsyhvqpiHM/?node-id=6%3A2
 
-## Dúvidas ou Sugestões 🗣️
 
-https://discord.gg/hUd8qAHZH5
+

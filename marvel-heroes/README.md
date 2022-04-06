@@ -38,6 +38,5 @@ Nesse projeto você vai criar uma aplicação utilizando a API da Marvel
 > **FIGMA**
 > https://www.figma.com/file/k218AgB7rCMPOsyhvqpiHM/?node-id=223%3A2
 
-## Dúvidas ou Sugestões 🗣️
 
-https://discord.gg/hUd8qAHZH5
+

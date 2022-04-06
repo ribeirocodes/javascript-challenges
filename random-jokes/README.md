@@ -25,6 +25,5 @@ Nesse desafio você vai criar um exibidor de piadas aleatórias!
 > **FIGMA**
 > https://www.figma.com/file/k218AgB7rCMPOsyhvqpiHM/?node-id=37%3A269
 
-## Dúvidas ou Sugestões 🗣️
 
-https://discord.gg/hUd8qAHZH5
+

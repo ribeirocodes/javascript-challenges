@@ -25,7 +25,7 @@ output: true
 
 input: Ana
 reversed: anA
-output: false
+output: true
 
 input: trem
 reversed: mert
@@ -45,6 +45,5 @@ output: false
 > **FIGMA**
 > https://www.figma.com/file/k218AgB7rCMPOsyhvqpiHM/?node-id=9%3A90
 
-## Dúvidas ou Sugestões 🗣️
 
-https://discord.gg/hUd8qAHZH5
+

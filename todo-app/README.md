@@ -29,6 +29,5 @@ O intuito desse projeto é criar um app gerenciador de tarefas. Cada tarefa poss
 > **FIGMA**
 > https://www.figma.com/file/k218AgB7rCMPOsyhvqpiHM/?node-id=0%3A1
 
-## Dúvidas ou Sugestões 🗣️
 
-https://discord.gg/hUd8qAHZH5
+

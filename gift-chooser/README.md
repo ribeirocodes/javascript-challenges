@@ -35,6 +35,5 @@ Nesse desafio você vai desenvolver um gerador de presentes. O usuário irá pod
 > **FIGMA**
 > https://www.figma.com/file/k218AgB7rCMPOsyhvqpiHM/?node-id=32%3A133
 
-## Dúvidas ou Sugestões 🗣️
 
-https://discord.gg/hUd8qAHZH5
+
